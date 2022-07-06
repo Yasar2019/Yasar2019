@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If you are wondering about this digital card, this is a DevCard from the https://daily.dev/
+You can also download the daily.dev extension from this link https://api.daily.dev/get?_ga=2.119423488.800246194.1657125023-620882592.1657125023
 <a href="https://app.daily.dev/yas1998"><img src="https://api.daily.dev/devcards/02ff78574b064333b0ea73bd6ba50f95.png?r=uf4" width="400" alt="Yasar Nazzarian's Dev Card"/></a>
 
 <!--

@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Yasar Nazzarian 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 If you are wondering about this digital card, this is the DevCard from [daily.dev](https://daily.dev/)<br />
 You can also download the daily.dev extension from this [link](https://api.daily.dev/get?_ga=2.119423488.800246194.1657125023-620882592.1657125023)

@@ -1,6 +1,6 @@
 ### Hi there, I'm Yasar Nazzarian 👋
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="https://twitter.com/yasarnazarian" target="_blank"><img align=left src="fa-twitter"</a>
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasar2019.Yasar2019)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a class="twitter-timeline" href="https://twitter.com/yasarnazarian?ref_src=twsrc%5Etfw">Tweets by yasarnazarian</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

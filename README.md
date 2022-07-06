@@ -1,6 +1,14 @@
 ### Hi there, I'm Yasar Nazzarian 👋
 
+<!--Social media links-->
 
+<a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img align="left" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
+
+<a href="https://www.twitter.com/yasarnazarian/"><img align="left" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/twitter.png" alt="icon | Twitter" width="21px"/></a>
+
+<a href="https://www.instagram.com/yasar.nazarian/"><img align="left" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/instagram.png" alt="icon | Instagram" width="21px"/></a> <br /><br />
+
+<!--Visitor Counter-->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasar2019.Yasar2019)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

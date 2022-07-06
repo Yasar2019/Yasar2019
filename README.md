@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/yas1998"><img src="https://api.daily.dev/devcards/02ff78574b064333b0ea73bd6ba50f95.png?r=uf4" width="400" alt="Yasar Nazzarian's Dev Card"/></a>
+
 <!--
 **Yasar2019/Yasar2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

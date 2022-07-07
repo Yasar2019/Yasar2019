@@ -21,6 +21,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+<!--Embeded Twitter-->
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=yasarnazarian&layout=wide)](https://github.com/gazf/github-readme-twitter)
+
 If you are wondering about this digital card, this is the DevCard from [daily.dev](https://daily.dev/)<br />
 You can also download the daily.dev extension from this [link](https://api.daily.dev/get?_ga=2.119423488.800246194.1657125023-620882592.1657125023)
 

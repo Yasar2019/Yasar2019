@@ -1,5 +1,6 @@
 <!--Banner-->
-![](https://github.com/Yasar2019/images/banner.png)
+<div align="center"> <img src="images/banner.png"> </div>
+
 ### Hi there, I'm Yasar Nazzarian 👋
 
 <!--Social media links-->

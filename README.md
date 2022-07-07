@@ -1,5 +1,5 @@
 <!--Banner-->
-![](https://github.com/user/It's_not_the_destination,_it's_the_journey..png)
+![](https://github.com/Yasar2019/images/banner.png)
 ### Hi there, I'm Yasar Nazzarian 👋
 
 <!--Social media links-->

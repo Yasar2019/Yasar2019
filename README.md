@@ -1,13 +1,14 @@
 <!--Banner-->
-<div align="center"> <img src="images/banner.png"> </div>
+<div align="center"> <img src="images/banner.png"> 
 
 ### Hi there, I'm Yasar Nazzarian 👋
-
+</div>
 <!--Social media links-->
-
+<div align="center">
 <a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
 <a href="https://www.twitter.com/yasarnazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/twitter.png" alt="icon | Twitter" width="21px"/></a>
 <a href="https://www.instagram.com/yasar.nazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/instagram.png" alt="icon | Instagram" width="21px"/></a> <br /><br />
+</div>
 
 <!--Visitor Counter-->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasar2019.Yasar2019)

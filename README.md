@@ -1,6 +1,7 @@
 <!--Banner-->
 <div align="center"> <img src="images/banner.png"> </div>
-<div align="center" ### Hi there, I'm Yasar Nazzarian 👋</div>
+
+### Hi there, I'm Yasar Nazzarian 👋
 
 <!--Social media links-->
 

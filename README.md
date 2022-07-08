@@ -1,13 +1,12 @@
 <!--Banner-->
 <div align="center"> <img src="images/banner.png"> </div>
-
-### Hi there, I'm Yasar Nazzarian 👋
+<div align="center" ### Hi there, I'm Yasar Nazzarian 👋</div>
 
 <!--Social media links-->
 
-<a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img align="left" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
-<a href="https://www.twitter.com/yasarnazarian/"><img align="left" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/twitter.png" alt="icon | Twitter" width="21px"/></a>
-<a href="https://www.instagram.com/yasar.nazarian/"><img align="left" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/instagram.png" alt="icon | Instagram" width="21px"/></a> <br /><br />
+<a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.twitter.com/yasarnazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/twitter.png" alt="icon | Twitter" width="21px"/></a>
+<a href="https://www.instagram.com/yasar.nazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/instagram.png" alt="icon | Instagram" width="21px"/></a> <br /><br />
 
 <!--Visitor Counter-->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasar2019.Yasar2019)

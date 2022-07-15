@@ -18,24 +18,22 @@
 <!--Visitor Counter-->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasar2019.Yasar2019)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
-
 ```text
 JavaScript   36 mins         ████████████████████████▒   97.54 %
 JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 C            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
-
 <!--END_SECTION:waka-->
 
 <!--Embeded Twitter-->
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=yasarnazarian&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=yasarnazarian&layout=wide)](https://github.com/gazf/github-readme-twitter) 
 <!--END_SECTION:Twitter-->
-
-<a href="https://app.daily.dev/yas1998"><img src="https://api.daily.dev/devcards/02ff78574b064333b0ea73bd6ba50f95.png?r=uf4" width="400" alt="Yasar Nazzarian's Dev Card"/></a>
+  
+<a href="https://app.daily.dev/yas1998"><img src="https://api.daily.dev/devcards/02ff78574b064333b0ea73bd6ba50f95.png?r=uf4" width="400" alt="Yasar Nazzarian's Dev  Card"/></a>
 
 If you are wondering about this digital card, this is the DevCard from [daily.dev](https://daily.dev/)<br />
 You can also download the daily.dev extension from this [link](https://api.daily.dev/get?_ga=2.119423488.800246194.1657125023-620882592.1657125023)

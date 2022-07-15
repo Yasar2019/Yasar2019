@@ -10,6 +10,11 @@
 <a href="https://www.instagram.com/yasar.nazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/instagram.png" alt="icon | Instagram" width="21px"/></a> <br /><br />
 </div>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- Discord-->
+![](https://dcbadge.vercel.app/api/shield/713197906521489409)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--Visitor Counter-->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasar2019.Yasar2019)
 

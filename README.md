@@ -8,16 +8,13 @@
 <a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
 <a href="https://www.twitter.com/yasarnazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/twitter.png" alt="icon | Twitter" width="21px"/></a>
 <a href="https://www.instagram.com/yasar.nazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/instagram.png" alt="icon | Instagram" width="21px"/></a> <br /><br />
+  
+  ![](https://dcbadge.vercel.app/api/shield/713197906521489409)
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasar2019.Yasar2019)
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<!-- Discord-->
-![](https://dcbadge.vercel.app/api/shield/713197906521489409)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<!--Visitor Counter-->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasar2019.Yasar2019)
-
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
@@ -28,7 +25,7 @@ C            0 secs          ▒░░░░░░░░░░░░░░░░
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 <!--END_SECTION:waka-->
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--Embeded Twitter-->
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=yasarnazarian&layout=wide)](https://github.com/gazf/github-readme-twitter) 
 <!--END_SECTION:Twitter-->

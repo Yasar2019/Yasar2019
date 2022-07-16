@@ -18,12 +18,13 @@
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   36 mins         ████████████████████████▒   97.54 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-C            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+C            2 hrs 42 mins   ███████████████████░░░░░░   75.70 %
+JavaScript   36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
+Other        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 ```
+
 <!--END_SECTION:waka-->
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--Embeded Twitter-->

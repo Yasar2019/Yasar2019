@@ -1,5 +1,5 @@
 <!--Banner-->
-<div align="center"> <img src="images/banner.png"> 
+<div align="center"> <img src="images/STSCI-J-p22031a-4000px.jpg"> 
 
 ### Hi there, I'm Yasar Nazzarian 👋
 </div>

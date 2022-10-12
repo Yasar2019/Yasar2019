@@ -11,7 +11,7 @@
   
   ![](https://dcbadge.vercel.app/api/shield/713197906521489409)
   
-  ![visitor](https://visitor-badge.glitch.me/badge?page_id=Yasar2019.Yasar2019)
+  ![visitorS](https://visitor-badge.glitch.me/badge?page_id=Yasar2019)
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------

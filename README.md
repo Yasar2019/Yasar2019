@@ -20,7 +20,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   2 mins          █████████████████████░░░░   84.19 %
+HTML         0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
 ```
 
 <!--END_SECTION:waka-->

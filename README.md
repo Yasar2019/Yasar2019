@@ -1,5 +1,5 @@
 <!--Banner-->
-<div align="center"> <img src="images/DALL·E 2022-12-18 19.17.54 - A software student studying in his cosy room, he has a great setup, it’s raining outside, we can see the rain drops on the window, the room’s decorati.png"> 
+<div align="center"> <img src="images/PcAI.jpg"> 
 
 ### Hi there, I'm Yasar Nazzarian 👋
 </div>

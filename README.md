@@ -1,38 +1,37 @@
 <!--Banner-->
-<div align="center"> <img src="images/PcAI.jpg"> 
-
-### Hi there, I'm Yasar Nazzarian 👋
+<div align="center">
+  <img src="images/PcAI.jpg" alt="Profile Banner">
+  
+  ### Hi there, I'm Yasar Nazzarian 👋
+  ## Follow me on social media!! 👇👇
 </div>
+
 <!--Social media links-->
 <div align="center">
-<a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
-<a href="https://www.twitter.com/yasarnazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/twitter.png" alt="icon | Twitter" width="21px"/></a>
-<a href="https://www.instagram.com/yasar.nazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/instagram.png" alt="icon | Instagram" width="21px"/></a> <br /><br />
-  
-  ![](https://dcbadge.vercel.app/api/shield/713197906521489409)
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Yasar2019.Yasar2019)
+  <a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/linkedin.png" alt="icon | LinkedIn" width="50px"></a>
+  <a href="https://www.twitter.com/yasarnazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/twitter.png" alt="icon | Twitter" width="50px"></a>
+  <a href="https://www.instagram.com/yasar.nazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/instagram.png" alt="icon | Instagram" width="50px"></a>
+ 
+   <br/> <br/>
+ ![](https://komarev.com/ghpvc/?username=Yasar2019&color=blue)
 </div>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+---
 
-<!--START_SECTION:waka-->
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+
+### Recent Activity
 
 ```text
 Python     1 hr 37 mins    ███████████████████▓░░░░░   79.30 %
-Other      11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-Markdown   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Git        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other      11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░    9.22 %
+Markdown   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░    5.50 %
+Git        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░    5.01 %
+XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.97 %
 ```
-
-<!--END_SECTION:waka-->
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<!--Embeded Twitter-->
+<!--
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=yasarnazarian&layout=wide)](https://github.com/gazf/github-readme-twitter) 
-<!--END_SECTION:Twitter-->
-  
+ -->
 <a href="https://app.daily.dev/yas1998"><img src="https://api.daily.dev/devcards/02ff78574b064333b0ea73bd6ba50f95.png?r=uf4" width="400" alt="Yasar Nazzarian's Dev  Card"/></a>
 
 If you are wondering about this digital card, this is the DevCard from [daily.dev](https://daily.dev/)<br />

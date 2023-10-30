@@ -21,6 +21,19 @@
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 06 July 2022 - To: 30 October 2023
+
+Total Time: 158 hrs 20 mins
+
+Python        53 hrs 29 mins  >>>>>>>>-----------------   31.88 %
+Java          35 hrs 53 mins  >>>>>--------------------   21.39 %
+C             24 hrs 41 mins  >>>>---------------------   14.72 %
+TypeScript    15 hrs 23 mins  >>-----------------------   09.17 %
+Other         9 hrs 26 mins   >------------------------   05.63 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--### Recent Activity

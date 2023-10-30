@@ -22,7 +22,8 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-### Recent Activity
+
+<!--### Recent Activity
 
 ```text
 Python     1 hr 37 mins    ███████████████████▓░░░░░   79.30 %
@@ -30,7 +31,7 @@ Other      11 mins         ██▒░░░░░░░░░░░░░░�
 Markdown   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░    5.50 %
 Git        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░    5.01 %
 XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░    0.97 %
-```
+```-->
 <!--
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=yasarnazarian&layout=wide)](https://github.com/gazf/github-readme-twitter) 
  -->

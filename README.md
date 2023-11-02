@@ -3,7 +3,8 @@
   <img src="images/PcAI.jpg" alt="Profile Banner">
   
   ### Hi there, I'm Yasar Nazzarian 👋
-  ## Follow me on social media!! 👇👇
+  ### Software Engineering Student
+  ## Follow me on social media👇
 </div>
 
 <!--Social media links-->

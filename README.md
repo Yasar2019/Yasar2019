@@ -10,6 +10,16 @@
 
 *****************
 
+## Follow me on social media👇
+<!--Social media links-->
+<div align="center">
+  <a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img src="https://img.shields.io/badge/LinkedIn-Yasar-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.twitter.com/yasarnazarian/"><img src="https://img.shields.io/badge/Yasar-black?style=flat-square&logo=X" alt="Twitter"></a>
+  <a href="https://www.instagram.com/ynazzarian/"><img src="https://img.shields.io/badge/Instagram-Yasar-E4405F?style=flat-square&logo=instagram" alt="Instagram"></a>
+</div>
+
+****************
+
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
@@ -53,15 +63,6 @@
 
 ### ⚡ Fun fact:
 - I love exploring new technologies and reading about Psychology/Philosophy in my free time
-*****************
-## Follow me on social media👇
-<!--Social media links-->
-<div align="center">
-  <a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img src="https://img.shields.io/badge/LinkedIn-Yasar-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.twitter.com/yasarnazarian/"><img src="https://img.shields.io/badge/Yasar-black?style=flat-square&logo=X" alt="Twitter"></a>
-  <a href="https://www.instagram.com/ynazzarian/"><img src="https://img.shields.io/badge/Instagram-Yasar-E4405F?style=flat-square&logo=instagram" alt="Instagram"></a>
-</div>
-
 ---
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />

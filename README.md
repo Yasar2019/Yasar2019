@@ -1,20 +1,65 @@
 <!--Banner-->
 <div align="center">
-  <img src="images/PcAI.jpg" alt="Profile Banner">
   
-  ### Hi there, I'm Yasar Nazzarian 👋
-  ### Software Engineering Student
-  ## Follow me on social media👇
+  ### Hi there, My name is Yasar Nazzarian 👋 I'm a Software Engineering Student.
+  [View My Resume](https://yasar2019.github.io/MyResume/) 📃
+
+   ![](https://komarev.com/ghpvc/?username=Yasar2019&color=blue)
+   
 </div>
 
+*****************
+
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square)
+
+### 🌱 What I'm currently learning:
+- Advanced software engineering concepts
+- New programming languages and frameworks
+- AI/ML
+
+### 🔭 I’m currently working on:
+- Various coding projects and collaboration with peers
+- Personal development and Machine Learning projects
+
+### 👯 I’m looking to collaborate on:
+- Open source projects
+- Innovative and challenging software solutions
+
+### 🤔 I’m looking for help with:
+- Deepening my understanding of complex algorithms
+- Exploring cutting-edge technologies in AI and ML
+
+### 💬 Ask me about:
+- My experiences in software development
+- Tips for coding and project management
+
+### 📫 How to reach me:
+- Through my LinkedIn or Twitter profiles linked below
+
+### ⚡ Fun fact:
+- I love exploring new technologies and reading about Psychology/Philosophy in my free time
+*****************
+## Follow me on social media👇
 <!--Social media links-->
 <div align="center">
-  <a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/linkedin.png" alt="icon | LinkedIn" width="50px"></a>
-  <a href="https://www.twitter.com/yasarnazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/twitter.png" alt="icon | Twitter" width="50px"></a>
-  <a href="https://www.instagram.com/yasar.nazarian/"><img align="center" src="https://raw.githubusercontent.com/Yasar2019/Yasar2019/main/images/instagram.png" alt="icon | Instagram" width="50px"></a>
- 
-   <br/> <br/>
- ![](https://komarev.com/ghpvc/?username=Yasar2019&color=blue)
+  <a href="https://ca.linkedin.com/in/yasarnazzarian-98"><img src="https://img.shields.io/badge/LinkedIn-Yasar-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.twitter.com/yasarnazarian/"><img src="https://img.shields.io/badge/Yasar-black?style=flat-square&logo=X" alt="Twitter"></a>
+  <a href="https://www.instagram.com/ynazzarian/"><img src="https://img.shields.io/badge/Instagram-Yasar-E4405F?style=flat-square&logo=instagram" alt="Instagram"></a>
 </div>
 
 ---
@@ -51,20 +96,5 @@ XML        1 min           ▒░░░░░░░░░░░░░░░░�
  -->
 <a href="https://app.daily.dev/yas1998"><img src="https://api.daily.dev/devcards/02ff78574b064333b0ea73bd6ba50f95.png?r=uf4" width="400" alt="Yasar Nazzarian's Dev  Card"/></a>
 
-If you are wondering about this digital card, this is the DevCard from [daily.dev](https://daily.dev/)<br />
 You can also download the daily.dev extension from this [link](https://api.daily.dev/get?_ga=2.119423488.800246194.1657125023-620882592.1657125023)
 
-<!--
-**Yasar2019/Yasar2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

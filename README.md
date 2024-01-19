@@ -59,7 +59,7 @@
 - Tips for coding and project management
 
 ### 📫 How to reach me:
-- Through my LinkedIn or Twitter profiles linked below
+- Through my LinkedIn or Twitter profiles linked above
 
 ### ⚡ Fun fact:
 - I love exploring new technologies and reading about Psychology/Philosophy in my free time

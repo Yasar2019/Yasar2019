@@ -54,15 +54,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 July 2022 - To: 04 June 2026
+From: 06 July 2022 - To: 06 June 2026
 
-Total Time: 222 hrs 58 mins
+Total Time: 223 hrs 8 mins
 
-Python                     82 hrs 8 mins         >>>>>>>>>----------------   34.92 %
-Java                       35 hrs 53 mins        >>>>---------------------   15.26 %
-C                          24 hrs 41 mins        >>>----------------------   10.50 %
-JavaScript                 20 hrs 1 min          >>-----------------------   08.52 %
-TypeScript                 17 hrs 39 mins        >>-----------------------   07.51 %
+Python                     82 hrs 8 mins         >>>>>>>>>----------------   34.90 %
+Java                       35 hrs 53 mins        >>>>---------------------   15.25 %
+C                          24 hrs 41 mins        >>>----------------------   10.49 %
+JavaScript                 20 hrs 10 mins        >>-----------------------   08.57 %
+TypeScript                 17 hrs 39 mins        >>-----------------------   07.50 %
 Other                      12 hrs 14 mins        >------------------------   05.20 %
 ```
 

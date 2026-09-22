@@ -77,8 +77,14 @@ Build dependable products  →  Make data useful  →  Connect software with the
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yasar2019&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Yasar's GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Yasar2019&theme=tokyonight&hide_border=true" alt="Yasar's contribution streak" />
+
+[![GitHub followers](https://img.shields.io/github/followers/Yasar2019?style=for-the-badge&logo=github&label=Followers&color=3156D9)](https://github.com/Yasar2019?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Yasar2019?style=for-the-badge&logo=github&label=Total%20Stars&color=3156D9)](https://github.com/Yasar2019?tab=repositories)
+
+<br /><br />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Yasar2019&theme=tokyonight&hide_border=true" alt="Yasar's contribution streak" />
+
 </div>
 
 ## Coding Activity

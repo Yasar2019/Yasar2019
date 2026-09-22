@@ -2,7 +2,8 @@
   <img src="./images/banner-3d.svg" alt="Yasar Nazzarian — Software Development and Technology Professional" width="100%" />
 </div>
 
-<br />
+<h1 align="center">Software Development &amp; Technology Professional</h1>
+<p align="center">Full-stack development · Data solutions · Embedded systems · Applied AI</p>
 
 <div align="center">
 

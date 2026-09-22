@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Yasar Nazzarian — Software Development and Technology Professional</title>
+  <desc id="desc">Dark navy banner with an animated luminous three-dimensional systems orb.</desc>
+  <defs>
+    <radialGradient id="bg" cx="78%" cy="12%" r="86%">
+      <stop offset="0" stop-color="#243f9e"/>
+      <stop offset=".34" stop-color="#111b4b"/>
+      <stop offset="1" stop-color="#070b18"/>
+    </radialGradient>
+    <radialGradient id="orb" cx="28%" cy="22%" r="82%">
+      <stop offset="0" stop-color="#d9fbff"/>
+      <stop offset=".12" stop-color="#58dcff"/>
+      <stop offset=".48" stop-color="#3b58ed"/>
+      <stop offset="1" stop-color="#11163f"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" x2="1">
+      <stop stop-color="#69e8ff" stop-opacity=".12"/>
+      <stop offset=".5" stop-color="#a8f5ff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#667cff" stop-opacity=".12"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="963" cy="170" r="126" fill="#3464ff" opacity=".22" filter="url(#soft)"/>
+  <path d="M0 302 C230 238 411 353 642 282 S1009 219 1200 273" fill="none" stroke="#617ee8" stroke-opacity=".16"/>
+  <path d="M0 321 C253 269 433 371 670 300 S1019 239 1200 290" fill="none" stroke="#78e8ff" stroke-opacity=".10"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="72" y="77" fill="#8eaaff" font-size="18" letter-spacing="4">SOFTWARE DEVELOPMENT · DATA · EMBEDDED</text>
+    <text x="72" y="170" fill="#f7f9ff" font-size="52" font-weight="700" letter-spacing="-1">YASAR NAZZARIAN</text>
+    <text x="72" y="215" fill="#cad4f2" font-size="23">Software Development &amp; Technology Professional</text>
+    <text x="72" y="260" fill="#94a3c9" font-size="18">Building reliable systems from interface to infrastructure.</text>
+  </g>
+
+  <g transform="translate(970 176)" filter="url(#glow)">
+    <circle r="84" fill="url(#orb)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <ellipse rx="128" ry="48" fill="none" stroke="url(#ring)" stroke-width="2.4" transform="rotate(-18)">
+      <animateTransform attributeName="transform" type="rotate" from="-18" to="342" dur="14s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="115" ry="40" fill="none" stroke="#7f94ff" stroke-opacity=".6" stroke-width="1.4" transform="rotate(68)">
+      <animateTransform attributeName="transform" type="rotate" from="68" to="-292" dur="20s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle r="48" fill="none" stroke="#c4fbff" stroke-opacity=".52"/>
+    <circle cx="115" cy="-36" r="5" fill="#c8fbff">
+      <animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="#9fb5ff" opacity=".55">
+    <circle cx="1078" cy="68" r="2"/><circle cx="1122" cy="119" r="1.5"/><circle cx="870" cy="74" r="1.5"/>
+    <circle cx="842" cy="246" r="2"/><circle cx="1090" cy="270" r="1.5"/>
+  </g>
+
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      animate, animateTransform { display: none; }
+    }
+  </style>
+</svg>

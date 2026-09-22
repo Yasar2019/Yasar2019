@@ -33,10 +33,10 @@
   <path d="M0 321 C253 269 433 371 670 300 S1019 239 1200 290" fill="none" stroke="#78e8ff" stroke-opacity=".10"/>
 
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <text x="72" y="77" fill="#8eaaff" font-size="18" letter-spacing="4">SOFTWARE DEVELOPMENT · DATA · EMBEDDED</text>
-    <text x="72" y="170" fill="#f7f9ff" font-size="52" font-weight="700" letter-spacing="-1">YASAR NAZZARIAN</text>
-    <text x="72" y="215" fill="#cad4f2" font-size="23">Software Development &amp; Technology Professional</text>
-    <text x="72" y="260" fill="#94a3c9" font-size="18">Building reliable systems from interface to infrastructure.</text>
+    <text class="banner-eyebrow" x="72" y="77" fill="#8eaaff" font-size="18" letter-spacing="4">SOFTWARE DEVELOPMENT · DATA · EMBEDDED</text>
+    <text class="banner-name" x="72" y="170" fill="#f7f9ff" font-size="52" font-weight="700" letter-spacing="-1">YASAR NAZZARIAN</text>
+    <text class="banner-role" x="72" y="215" fill="#cad4f2" font-size="23">Software Development &amp; Technology Professional</text>
+    <text class="banner-tagline" x="72" y="260" fill="#94a3c9" font-size="18">Building reliable systems from interface to infrastructure.</text>
   </g>
 
   <g transform="translate(970 176)" filter="url(#glow)">
@@ -61,6 +61,12 @@
   </g>
 
   <style>
+    @media (max-width: 600px) {
+      .banner-eyebrow { font-size: 28px; letter-spacing: 2px; }
+      .banner-name { font-size: 68px; }
+      .banner-role { font-size: 36px; }
+      .banner-tagline { display: none; }
+    }
     @media (prefers-reduced-motion: reduce) {
       animate, animateTransform { display: none; }
     }

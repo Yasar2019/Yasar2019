@@ -92,7 +92,7 @@ Build dependable products  →  Make data useful  →  Connect software with the
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 July 2022 - To: 06 October 2026
+From: 06 July 2022 - To: 07 October 2026
 
 Total Time: 223 hrs 11 mins
 

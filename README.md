@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3156D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yasar2019.github.io/MyResume/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3156D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yasar-nazzarian.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/yasarnazzarian-98)
 [![Email](https://img.shields.io/badge/Email-Contact-1B2440?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:yasar20111926@hotmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=Yasar2019&style=for-the-badge&color=3156D9)
